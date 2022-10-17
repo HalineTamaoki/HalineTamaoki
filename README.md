@@ -3,7 +3,7 @@
 <p><em>Junior Developer at <a href="https://www.t-systems.com/">T-Systems</a></br></em></p>
 
 [![Linkedin: HalineTamaoki](https://img.shields.io/badge/-HalineTamaoki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haline-tamaoki-a7851811b/)](https://www.linkedin.com/in/haline-tamaoki-a7851811b/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/HalineTamaoki?label=follow&style=social)](https://github.com/HalineTamaoki)
+[![GitHub Haline](https://img.shields.io/github/followers/HalineTamaoki?label=follow&style=social)](https://github.com/HalineTamaoki)
 
 ### A little more about me...  
 
