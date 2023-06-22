@@ -12,6 +12,8 @@ const haline = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [Angular, React, Node, Spring Boot],
+  database: [PostgreSQL, MySQL, MongoDB],
+  extras: [Bootstrap, Angular Material, FIGMA],
   education: ["USP", "Mackenzie"],
   location: "São Paulo, Brasil"
 }
