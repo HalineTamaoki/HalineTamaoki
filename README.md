@@ -10,10 +10,10 @@
 ```javascript
 const haline = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Java],
+  code: [Javascript, Typescript, HTML, CSS, Java, Python],
   tools: [Angular, React, Node, Spring Boot],
-  database: [PostgreSQL, MySQL, MongoDB],
-  extras: [Bootstrap, Angular Material, FIGMA],
+  database: [PostgreSQL, MySQL, MongoDB, Oracle Database],
+  extras: [Bootstrap, Angular Material, FIGMA, Material UI],
   education: ["USP", "Mackenzie"],
   location: "São Paulo, Brasil"
 }
